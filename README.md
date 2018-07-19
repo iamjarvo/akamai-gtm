@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/Comcast/akamai-gtm.svg?branch=master)](https://travis-ci.org/Comcast/akamai-gtm)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fiamjarvo%2Fakamai-gtm.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fiamjarvo%2Fakamai-gtm?ref=badge_shield)
 
 # akamai-gtm
 
@@ -63,3 +64,7 @@ GLOBAL OPTIONS:
    --help, -h                           show help
    --version, -v                        print the version
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fiamjarvo%2Fakamai-gtm.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fiamjarvo%2Fakamai-gtm?ref=badge_large)
